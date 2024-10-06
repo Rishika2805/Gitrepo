@@ -1,4 +1,4 @@
 # Gitrepo
 Just trying to Learn Github and Git.
 <br>
-Author - Rishika Kaur
+Author - Rishika Kaur(Lucky) 
